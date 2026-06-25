@@ -1,5 +1,5 @@
-[index.html](https://github.com/user-attachments/files/29313969/index.html)
-[Uploading index.h<!DOCTYPE html>
+[index (3).html](https://github.com/user-attachments/files/29314829/index.3.html)
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
@@ -363,4 +363,3 @@ renderIntro();
 </script>
 </body>
 </html>
-
